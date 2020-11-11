@@ -1,0 +1,1 @@
+[INFO]: Everything initialized fine in Engine in file: c:\users\joseph\desktop\mygameengine\mygameengine\engine\core\engine.cpp on line: 49
